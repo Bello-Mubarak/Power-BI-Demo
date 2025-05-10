@@ -1,5 +1,5 @@
 # Mubarak Enterprice Analysis
-
+![](Dash.jpg)
 ##INTRODUCTION:
 This is a Power BI  project on sales analysis for **Mubarak Enterprice**.
 The project aims to analyze and derive insight from activities so far.
